@@ -23,6 +23,7 @@ $languages['java'] = [
     '<a href="https://www.pac4j.org/">Pac4j</a>',
     '<a href="https://www.keycloak.org/">Keycloak</a>',
     '<a href="https://connect2id.com/products/nimbus-oauth-openid-connect-sdk">Nimbus</a>',
+    '<a href="http://www.apifest.org/index.html">ApiFest</a>',
   ],
 ];
 
